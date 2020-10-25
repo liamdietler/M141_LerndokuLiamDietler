@@ -2,12 +2,12 @@
 
 ## Model
 
-> * Lebensmittel
+> * Lebensmittel, Besteller
 
 ## View
 
-> * View (braucht nur ein View, da nur ein Formular mit Lebensmittel)
+> * View wird nur eine benötigt, da es nur ein Formular gibt.
 
 ## Controller
 
-> * 
+> * Controller werden zwei benötigt, da es einen braucht für die Lebensmittel und einen für den Besteller.
