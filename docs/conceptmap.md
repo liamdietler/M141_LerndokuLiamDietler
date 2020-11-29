@@ -35,6 +35,18 @@ note left of (Docker-Compose)
 endnote
 (ScriptSprachen) <---> (Python)
 (ScriptSprachen) <---> (Bash)
+(MySQL)
+note bottom of (MySQL)
+    MySQL ist ein quellenoffenes Datenbank-Managementsystem. Es ist die Grundlage für dynamische Webseiten.
+endnote
+(MySQL) <---> (ProstgreSQL)
+note bottom of (ProstgreSQL)
+ProstgreSQL ist ein Datenbank-Managementsystem in welchem komplexere Abfragen möglich sind, Fremdschlüssel zur Verknüpfung zweier Tabellen angewendet werden und bei der Trigger eingesetzt werden die bei Input automatisch augelöst, überprüft, bestätigt, ändern oder gelöscht werden können.
+endnote
+(MySQL) <---> (SQL-Injection)
+note bottom of (SQL-Injection)
+Das Ausnutzen einer Sicherheitslücke im Zusammenhang mit SQL-Datenbanken, durch mangelnde Maskierung oder Überprüfung von Benutzereingaben, wird SQL-Injection genannt.
+endnote
 
 @enduml
 ```

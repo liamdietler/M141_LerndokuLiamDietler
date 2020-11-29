@@ -19,3 +19,4 @@
         * [SSR](/LB1/SSR.md)
         * [Use-Case](/LB1/UseCase.md)
         * [Use-Case Diagramm](/LB1/UseCaseDiagramm.md)
+        * [SQL-Scripts Anwendung](AnwendungSQL-Scripts.md)
